@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_texas_tutorial_tips",
+    "texture": "fe8cbd9a-91a0-4c6d-8285-9a08bb3b28e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      69
+    ],
+    "capInsets": [
+      36,
+      0,
+      36,
+      0
+    ]
+  }
+}

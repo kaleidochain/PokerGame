@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rhm_2",
+    "texture": "2f59a464-4a1f-44d8-8350-e200673dc509",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      164
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

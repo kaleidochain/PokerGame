@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_mnemonic",
+    "texture": "a9258db1-ae80-48bd-812c-99c23eca8d60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      874,
+      464
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      874,
+      464
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

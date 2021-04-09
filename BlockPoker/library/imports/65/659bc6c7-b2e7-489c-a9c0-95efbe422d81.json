@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_txt_join_room",
+    "texture": "172265bb-8a6d-4590-ae85-b795af6324d1",
+    "atlas": "",
+    "rect": [
+      9,
+      34,
+      390,
+      92
+    ],
+    "offset": [
+      -1.5,
+      -3.5
+    ],
+    "originalSize": [
+      411,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

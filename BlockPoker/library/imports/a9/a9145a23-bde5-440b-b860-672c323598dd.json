@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_handrules_fullhouse",
+    "texture": "a7a6555c-3a42-4c55-9c01-2be458a4a4d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      496,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      496,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

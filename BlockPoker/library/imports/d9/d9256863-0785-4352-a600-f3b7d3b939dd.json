@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_input_custom_odds",
+    "texture": "5400b41e-94d1-4f99-9b4a-bad8e44f4119",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

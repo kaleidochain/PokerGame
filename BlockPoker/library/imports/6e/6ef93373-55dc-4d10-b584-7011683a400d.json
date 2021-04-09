@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_action_raise",
+    "texture": "9d92b939-fa87-4028-9db9-4ed8195690c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

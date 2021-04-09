@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blue_slider",
+    "texture": "e86c200c-31e6-4e7f-96a6-719fd0615cb3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jackpot_icon_gift",
+    "texture": "ee3eddc1-037f-4538-9f1c-487e3288e379",
+    "atlas": "7e93f695-945e-4f0e-95fe-57e9563f6a9e",
+    "rect": [
+      1161,
+      2,
+      62,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

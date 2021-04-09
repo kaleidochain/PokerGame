@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_numpad_delete",
+    "texture": "1138ccbb-a2b0-4a2f-ac74-c2ff138029f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      243,
+      107
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      243,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

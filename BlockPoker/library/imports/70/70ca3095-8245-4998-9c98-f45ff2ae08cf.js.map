@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/scripts/Net/NetConfig.js"],"names":["module","exports","host","port"],"mappings":";;;;;;AAAA;;;AAGAA,MAAM,CAACC,OAAP,GAAe;AACXC,EAAAA,IAAI,EAAC,gBADM;AAEXC,EAAAA,IAAI,EAAC;AAFM,CAAf","sourceRoot":"/","sourcesContent":["/**\n * 当前的网络配置\n */\nmodule.exports={\n    host:\"ws://localhost\",\n    port:8546\n\n};"]}

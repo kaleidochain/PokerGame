@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_invitation_inputcode",
+    "texture": "846ac828-b228-4915-8d09-62a166eecec3",
+    "atlas": "",
+    "rect": [
+      9,
+      7,
+      1431,
+      353
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      1449,
+      365
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

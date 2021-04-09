@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_raise",
+    "texture": "12b52c33-ee44-4187-b39f-2edac3fac96c",
+    "atlas": "",
+    "rect": [
+      11,
+      13,
+      184,
+      182
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      206,
+      206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

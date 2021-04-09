@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_join_private_room",
+    "texture": "0835cd94-f7f1-4a91-83df-8285165c777c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      990,
+      1056
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      990,
+      1056
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

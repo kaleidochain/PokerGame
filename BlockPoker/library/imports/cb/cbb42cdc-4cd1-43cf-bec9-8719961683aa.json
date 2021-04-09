@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_splash_logo",
+    "texture": "666b092a-09c6-4f6e-b7c9-5c4ac0c80fa8",
+    "atlas": "",
+    "rect": [
+      18,
+      0,
+      827,
+      446
+    ],
+    "offset": [
+      -0.5,
+      15
+    ],
+    "originalSize": [
+      864,
+      476
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

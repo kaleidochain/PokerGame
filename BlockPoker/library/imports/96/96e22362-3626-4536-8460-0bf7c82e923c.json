@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_kal",
+    "texture": "c06ca948-3fc0-4cf3-8808-bd5ebf18b555",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      132
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      135,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "insurance_line",
+    "texture": "64bd4138-1c8a-4438-a125-d2eabe8a9bb7",
+    "atlas": "462ae020-f458-47d6-b412-a6e94fb23353",
+    "rect": [
+      2,
+      2,
+      40,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

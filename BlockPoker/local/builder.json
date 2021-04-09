@@ -1,0 +1,23 @@
+{
+  "platform": "android",
+  "actualPlatform": "android",
+  "template": "link",
+  "buildPath": "./build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": false,
+  "keystorePath": "/Users/zwzhang/Desktop/sec/kaleidogame.keystore",
+  "keystorePassword": "NvhJqs6Ewdc1Z",
+  "keystoreAlias": "kaleidogame",
+  "keystoreAliasPassword": "Cun1Aqc7Y",
+  "apiLevel": "android-29",
+  "appABIs": [
+    "armeabi-v7a",
+    "arm64-v8a"
+  ],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false
+}

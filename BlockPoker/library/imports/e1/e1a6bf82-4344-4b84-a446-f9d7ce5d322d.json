@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_tutorial_finger",
+    "texture": "6a544249-e70f-4cfb-8b33-dc04944dbeb3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      325
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      325
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

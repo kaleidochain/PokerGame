@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuju_03",
+    "texture": "64bd4138-1c8a-4438-a125-d2eabe8a9bb7",
+    "atlas": "462ae020-f458-47d6-b412-a6e94fb23353",
+    "rect": [
+      720,
+      455,
+      230,
+      230
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      230
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

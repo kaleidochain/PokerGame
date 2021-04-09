@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "animation-allinHead-all_01",
+    "texture": "3567b37e-e889-46b8-8854-c341dab0d362",
+    "atlas": "e03a7861-e14f-4959-97b5-d328c8689eda",
+    "rect": [
+      1,
+      882,
+      65,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

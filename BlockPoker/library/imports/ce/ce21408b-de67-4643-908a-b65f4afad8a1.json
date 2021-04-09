@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_signout",
+    "texture": "ab41b6ef-ff5d-4400-8076-3a3e0b944b20",
+    "atlas": "169bec1d-1595-4878-aac6-fca6ad0fc8cb",
+    "rect": [
+      290,
+      288,
+      38,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      52
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

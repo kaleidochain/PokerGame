@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_invitation_code_copy",
+    "texture": "61afc6ce-d606-41d9-80a3-8bf50c042650",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      233,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

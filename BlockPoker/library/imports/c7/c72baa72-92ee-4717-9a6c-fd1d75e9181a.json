@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_bet",
+    "texture": "32d74895-4bcd-4055-853d-0b241bb1c964",
+    "atlas": "ed960500-430b-4a56-8d67-083418c30102",
+    "rect": [
+      898,
+      1438,
+      176,
+      55
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      176,
+      61
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_private_room_num",
+    "texture": "20ff8f2f-4965-4148-a83d-d602ef91daba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      762,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      762,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_invitation",
+    "texture": "08da4891-4112-43e6-ad1f-f555b81eba7a",
+    "atlas": "",
+    "rect": [
+      43,
+      7,
+      625,
+      244
+    ],
+    "offset": [
+      17,
+      -0.5
+    ],
+    "originalSize": [
+      677,
+      257
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

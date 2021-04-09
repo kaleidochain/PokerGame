@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_numpad_5",
+    "texture": "c18325cf-23cc-4c37-a6be-f35fbc768b9b",
+    "atlas": "",
+    "rect": [
+      0,
+      18,
+      243,
+      102
+    ],
+    "offset": [
+      0,
+      6
+    ],
+    "originalSize": [
+      243,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

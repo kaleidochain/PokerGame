@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_disconnect",
+    "texture": "7b3c77af-17eb-4124-9dd0-2a3862cbd055",
+    "atlas": "",
+    "rect": [
+      7,
+      8,
+      125,
+      123
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      140,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

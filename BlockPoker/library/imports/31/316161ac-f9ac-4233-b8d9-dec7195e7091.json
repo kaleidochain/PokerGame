@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_gamehall",
+    "texture": "6e7c319f-1a05-4d94-a710-c2b34cead788",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1125,
+      2001
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1125,
+      2001
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

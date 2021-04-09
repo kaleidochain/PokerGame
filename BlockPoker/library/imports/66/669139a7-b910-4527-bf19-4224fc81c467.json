@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_create_private",
+    "texture": "91d0af38-36c8-42cf-a359-142b54ca0368",
+    "atlas": "",
+    "rect": [
+      0,
+      20,
+      299,
+      109
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      299,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_gamereview_verify",
+    "texture": "22255bae-645c-4a71-81e5-0b948931e311",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      48,
+      48
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      48,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

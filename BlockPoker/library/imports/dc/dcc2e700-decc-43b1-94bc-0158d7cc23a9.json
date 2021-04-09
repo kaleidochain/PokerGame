@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_rooms",
+    "texture": "bbcf5eed-84ef-4514-ac05-35c8a3b0932b",
+    "atlas": "",
+    "rect": [
+      6,
+      11,
+      88,
+      81
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      101,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

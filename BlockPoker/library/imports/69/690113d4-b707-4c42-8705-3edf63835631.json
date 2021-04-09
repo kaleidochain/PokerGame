@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_club_members",
+    "texture": "bff795d3-4071-4e36-96a1-ee212e44d795",
+    "atlas": "",
+    "rect": [
+      9,
+      12,
+      66,
+      58
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      84,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "addunion-icon-head-515151",
+    "texture": "32d74895-4bcd-4055-853d-0b241bb1c964",
+    "atlas": "ed960500-430b-4a56-8d67-083418c30102",
+    "rect": [
+      186,
+      1484,
+      398,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      406,
+      406
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

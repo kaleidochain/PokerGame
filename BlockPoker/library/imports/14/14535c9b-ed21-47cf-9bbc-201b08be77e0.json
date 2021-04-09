@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_3tabright_on",
+    "texture": "cd9a8e20-df24-470c-9619-269b3cf5682e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

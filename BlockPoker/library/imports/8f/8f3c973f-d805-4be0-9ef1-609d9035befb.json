@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_club_notification",
+    "texture": "091abf40-1fd0-4bc4-b1fe-754cc5f12bab",
+    "atlas": "",
+    "rect": [
+      10,
+      17,
+      66,
+      53
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      84,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

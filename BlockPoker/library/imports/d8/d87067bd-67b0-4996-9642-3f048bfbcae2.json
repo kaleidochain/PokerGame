@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_defend",
+    "texture": "ab41b6ef-ff5d-4400-8076-3a3e0b944b20",
+    "atlas": "169bec1d-1595-4878-aac6-fca6ad0fc8cb",
+    "rect": [
+      288,
+      250,
+      44,
+      36
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      46,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

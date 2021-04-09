@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_4tableft_on",
+    "texture": "e0fa0b6a-330d-44c7-baa3-d5d586543359",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

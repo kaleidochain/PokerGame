@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_texas_tutorial_cardtype3",
+    "texture": "19ec899a-e214-48cb-beb4-b75a6a6ca25d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

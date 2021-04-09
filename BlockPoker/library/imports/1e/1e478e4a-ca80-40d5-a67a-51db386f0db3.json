@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_btn_exchange",
+    "texture": "5a266391-9001-4bb5-b6da-bf92ee77235f",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      489,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      497,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

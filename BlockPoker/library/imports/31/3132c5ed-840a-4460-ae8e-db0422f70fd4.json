@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_bet_chips",
+    "texture": "ac228686-2fe3-4080-825f-6ba732f52fd6",
+    "atlas": "",
+    "rect": [
+      1,
+      9,
+      58,
+      39
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      60,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

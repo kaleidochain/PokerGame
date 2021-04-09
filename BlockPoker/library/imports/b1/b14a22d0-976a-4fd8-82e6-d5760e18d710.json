@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_texas_tutorial_blind",
+    "texture": "c2cccee7-bb30-4dbb-8738-3b0f77cd72af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      516,
+      306
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      516,
+      306
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

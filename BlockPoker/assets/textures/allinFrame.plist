@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>animation/allin/39_UIEffect_026_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,129},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,257},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,385},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,513},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,641},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,769},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,897},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{129,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{257,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_23.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{513,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_25.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{641,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_27.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{769,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+			<key>animation/allin/39_UIEffect_026_29.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{897,1},{126,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{126,126}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>allinFrame.png</string>
+			<key>realTextureFileName</key>
+			<string>allinFrame.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

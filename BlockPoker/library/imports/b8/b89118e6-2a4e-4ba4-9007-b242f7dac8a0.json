@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "force_showCardDown",
+    "texture": "de039bf2-3f96-4610-8782-cf94923e3c0b",
+    "atlas": "1fc9ee74-60ed-45d1-b173-5df2f99a7ed2",
+    "rect": [
+      1128,
+      894,
+      206,
+      82
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      250,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

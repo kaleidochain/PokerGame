@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_club_invite",
+    "texture": "ad8fe7d0-adc3-4a7b-8d1d-131b875a99fe",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      60,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_texas_tutorial_pot",
+    "texture": "a76f7134-c2fa-494a-86fc-3f19a0b5fe7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      408,
+      306
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      408,
+      306
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

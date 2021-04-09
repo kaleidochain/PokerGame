@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_club_application_approve",
+    "texture": "6796b124-7bf6-4550-9b45-ee8315e0f735",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

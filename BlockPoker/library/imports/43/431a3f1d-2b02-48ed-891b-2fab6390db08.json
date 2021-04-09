@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_gamereview_slider",
+    "texture": "be52e3c8-6538-4d44-8fa7-dd38164ba774",
+    "atlas": "",
+    "rect": [
+      11,
+      13,
+      86,
+      84
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      108,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

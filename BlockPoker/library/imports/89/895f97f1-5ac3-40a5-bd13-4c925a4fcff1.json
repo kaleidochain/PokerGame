@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "animation-allin-39_UIEffect_026_01",
+    "texture": "1914f303-9197-4fdb-aefd-467c31d7ce51",
+    "atlas": "28cbfea6-96f8-445b-aec1-af000b551199",
+    "rect": [
+      1,
+      1,
+      126,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

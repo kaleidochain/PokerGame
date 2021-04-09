@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "allinFrame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "animation-allin-39_UIEffect_026_01": {
+      "__uuid__": "895f97f1-5ac3-40a5-bd13-4c925a4fcff1"
+    },
+    "animation-allin-39_UIEffect_026_03": {
+      "__uuid__": "81103a17-5dbd-4451-bc41-5221764b8e9f"
+    },
+    "animation-allin-39_UIEffect_026_05": {
+      "__uuid__": "007eb0eb-0b9d-4dca-88f4-d387fa58d890"
+    },
+    "animation-allin-39_UIEffect_026_07": {
+      "__uuid__": "a04c928f-7480-47ef-a8fa-2806c6dd2e64"
+    },
+    "animation-allin-39_UIEffect_026_09": {
+      "__uuid__": "8d58a444-0788-4012-a16a-873bc0b7fc2c"
+    },
+    "animation-allin-39_UIEffect_026_11": {
+      "__uuid__": "7e49890d-609c-49c2-8e47-1318e6393390"
+    },
+    "animation-allin-39_UIEffect_026_13": {
+      "__uuid__": "1d25d95f-07f3-49fd-9396-b6ad5d7aed81"
+    },
+    "animation-allin-39_UIEffect_026_15": {
+      "__uuid__": "655d7bc7-6755-4cea-9c84-166531f9d003"
+    },
+    "animation-allin-39_UIEffect_026_17": {
+      "__uuid__": "caf3219c-5b5a-43a8-9210-5c292a7a000c"
+    },
+    "animation-allin-39_UIEffect_026_19": {
+      "__uuid__": "523b3149-f2df-4092-a1f5-927cad4a88c7"
+    },
+    "animation-allin-39_UIEffect_026_21": {
+      "__uuid__": "bc5737bd-7bb2-4050-a04a-e5a1efaa05d4"
+    },
+    "animation-allin-39_UIEffect_026_23": {
+      "__uuid__": "1b5fa277-e650-4e54-9ba4-996691fc583d"
+    },
+    "animation-allin-39_UIEffect_026_25": {
+      "__uuid__": "d93e6f5b-c7c9-432e-8ffd-fc2029e1a5cc"
+    },
+    "animation-allin-39_UIEffect_026_27": {
+      "__uuid__": "6f424b34-e82f-4205-a7c2-1c71f1fe7a6e"
+    },
+    "animation-allin-39_UIEffect_026_29": {
+      "__uuid__": "ac86e62a-7a64-4c79-9f9e-3b67e6d45ae2"
+    }
+  }
+}

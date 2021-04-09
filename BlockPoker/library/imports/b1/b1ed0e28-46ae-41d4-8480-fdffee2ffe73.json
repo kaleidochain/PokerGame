@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "login.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_white": {
+      "__uuid__": "5f13dc49-a2b4-4c54-8fe7-6424ede43ca9"
+    },
+    "bg_white_small": {
+      "__uuid__": "feb5ae4d-10fa-4a21-b35c-344f779c2986"
+    },
+    "button_homepage_down": {
+      "__uuid__": "187b062c-9b38-42e3-bbd1-46c517f7c617"
+    },
+    "button_homepage_on": {
+      "__uuid__": "c4e5d2d4-80dd-4058-9807-4ade8938fa2f"
+    },
+    "button_login_down": {
+      "__uuid__": "eb7ea78b-1e00-42af-adb4-60c7fb013c8b"
+    },
+    "button_login_gray_down": {
+      "__uuid__": "489b61ce-1d10-42ff-875e-c062c5bdf9a6"
+    },
+    "button_login_on": {
+      "__uuid__": "0069370f-b78c-4cf8-b4c6-a6bb5a902685"
+    },
+    "button_register_down": {
+      "__uuid__": "f2ea3846-10a5-46be-8258-965d6bb54b98"
+    },
+    "button_register_on": {
+      "__uuid__": "e86f5187-26eb-4b71-9ba5-55b4c30c30c4"
+    },
+    "duanxin": {
+      "__uuid__": "f01bf5f8-2368-44f6-bea8-c7f48e2c6a0f"
+    },
+    "icon_arrow": {
+      "__uuid__": "6e4dfb38-f8fc-4901-88d5-6ac0ac3f4853"
+    },
+    "icon_check": {
+      "__uuid__": "9b84e8d6-95a2-4b89-a0d1-e5df88aaf1da"
+    },
+    "icon_check1": {
+      "__uuid__": "35192a1f-4b9b-4fd5-aeb5-a7cac4b8abfa"
+    },
+    "icon_email": {
+      "__uuid__": "7c52c971-b107-4989-b84c-f227363c3c4e"
+    },
+    "icon_gold": {
+      "__uuid__": "4d66891f-3f9f-4918-baef-4ed19515cb78"
+    },
+    "icon_key": {
+      "__uuid__": "d654bdb7-ad0b-4a74-b17f-a04e60f10e77"
+    },
+    "icon_obtain": {
+      "__uuid__": "ec924bba-5765-4349-aed7-34bba46b94d7"
+    },
+    "icon_question": {
+      "__uuid__": "0da29bd5-ae90-4e42-93ef-d9fc8508bca4"
+    },
+    "icon_verification": {
+      "__uuid__": "b316e3e7-9419-478f-8bd4-0c6d8fa49cae"
+    },
+    "kuang1": {
+      "__uuid__": "b8944274-6989-4f68-8ec6-8462abed6559"
+    },
+    "line": {
+      "__uuid__": "fed65f38-69d9-4f77-9666-23211656f99b"
+    },
+    "login_accounts_icon": {
+      "__uuid__": "f0fce54c-f531-4174-8a41-acc0ded7f43d"
+    },
+    "login_bg": {
+      "__uuid__": "13d497a3-6b4a-4fa4-ad8a-6cf7e84375cd"
+    },
+    "login_code_icon": {
+      "__uuid__": "b6ebedb2-a7a1-4164-a013-e26c11af7ba2"
+    },
+    "login_icon1": {
+      "__uuid__": "5b8ee0b7-3205-48c5-9efe-3f57a5a0caf2"
+    },
+    "login_icon2": {
+      "__uuid__": "74e5654f-7c98-4182-a945-6864924a0368"
+    },
+    "login_icon3": {
+      "__uuid__": "bdb6e90d-e0aa-4ccb-ab5c-1e3a5de0c355"
+    },
+    "login_kefu": {
+      "__uuid__": "6a35bae6-4714-4c4d-b8e5-79ef0aa63cb5"
+    },
+    "login_nickname_icon": {
+      "__uuid__": "5af0b29f-ef49-4b1e-9563-796c129ecdd1"
+    },
+    "pw_strength_bg_left": {
+      "__uuid__": "bec6a5ac-c55e-452a-9bc4-131ad2e7e013"
+    },
+    "pw_strength_bg_mid": {
+      "__uuid__": "d0ff6141-5aaa-459d-8b27-28bdfa09f41a"
+    },
+    "pw_strength_bg_right": {
+      "__uuid__": "002d96a5-579b-4cc9-9b9e-03d3146c718c"
+    },
+    "pw_strength_high": {
+      "__uuid__": "be913f8d-3872-477c-a61a-5aa940a7288c"
+    },
+    "pw_strength_low": {
+      "__uuid__": "f70113cf-6a8f-4b4d-a55c-3763cbee8bb6"
+    },
+    "pw_strength_mid": {
+      "__uuid__": "2ad801ae-af8e-4498-9f2d-e05850af7d7f"
+    },
+    "ui_0022_camera_icon_on": {
+      "__uuid__": "c8ba13a7-00b8-45bc-b509-20e4ecfd5089"
+    },
+    "ui_0023_camera_icon_off": {
+      "__uuid__": "d135375e-d2c7-44fb-9767-9046031d3234"
+    },
+    "ui_0025_email_icon": {
+      "__uuid__": "4364cc7b-5928-4109-b562-bb872106fb6f"
+    },
+    "ui_0026_phone_icon": {
+      "__uuid__": "d693832d-0a3b-444c-85e7-61052753c9d7"
+    },
+    "ui_0027_chat_icon": {
+      "__uuid__": "6b2cd023-1f89-4862-a8c4-aaf7bff1b68c"
+    },
+    "ui_0028_lock_icon": {
+      "__uuid__": "7c155555-9c49-4b0a-a36d-dadd4ae3b51e"
+    },
+    "ui_0057_line_light_01": {
+      "__uuid__": "bc08104d-2480-41b2-9717-0d3879bacfd8"
+    },
+    "version_bg": {
+      "__uuid__": "1a5f1356-d59e-4ce3-8cfc-170e8c026b71"
+    },
+    "wenhao": {
+      "__uuid__": "a55ec6ab-426c-4a16-993b-2aac47e452fe"
+    },
+    "yaoqingma": {
+      "__uuid__": "8d92c80a-3c46-4597-a37b-82fd75a3db9d"
+    }
+  }
+}

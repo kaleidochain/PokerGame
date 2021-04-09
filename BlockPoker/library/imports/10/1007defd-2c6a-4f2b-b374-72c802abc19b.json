@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_tableinfo_off",
+    "texture": "00e23c2f-1ec4-4f8f-82bf-bc2d7b07411b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

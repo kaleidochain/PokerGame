@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light_01",
+    "texture": "2bc87f9c-2473-482b-97cc-e3de4fbb090c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      187
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      187
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

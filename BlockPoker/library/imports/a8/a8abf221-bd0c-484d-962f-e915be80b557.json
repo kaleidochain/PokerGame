@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dataView_logo",
+    "texture": "75778159-ba73-4508-96eb-37ebd111622d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

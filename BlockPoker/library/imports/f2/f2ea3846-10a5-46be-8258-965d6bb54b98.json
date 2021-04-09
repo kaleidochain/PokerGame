@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_register_down",
+    "texture": "b9556623-932e-42c6-9632-fe5f8c0e269c",
+    "atlas": "b1ed0e28-46ae-41d4-8480-fdffee2ffe73",
+    "rect": [
+      2,
+      608,
+      726,
+      142
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      736,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

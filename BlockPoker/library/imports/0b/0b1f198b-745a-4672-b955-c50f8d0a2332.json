@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_clubresults",
+    "texture": "e9a6b142-5fbc-42b9-b5cf-0d04332430f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

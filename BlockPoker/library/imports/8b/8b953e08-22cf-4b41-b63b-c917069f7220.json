@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_refresh",
+    "texture": "6122bb8a-1d9e-4039-9a08-468c35386d5f",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      96,
+      95
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      103,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

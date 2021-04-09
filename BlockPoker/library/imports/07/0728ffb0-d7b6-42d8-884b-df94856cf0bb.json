@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_handrules_straight_flush",
+    "texture": "8748f441-a85d-453b-9247-293ffcb38eca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      497,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      497,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "head_xzan",
+    "texture": "ef3d652d-169f-408c-b3a5-dd283b368d11",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

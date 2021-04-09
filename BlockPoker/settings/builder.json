@@ -1,0 +1,63 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "io.kaleidochain.BlockPoker",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [
+    "c3103ef9-18cd-4e47-bc1b-e4d5e85cd6c6",
+    "4d870c3e-a67d-4951-8528-60481c564318"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "io.kaleidochain.BlockPoker",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "a0bca835-a726-40e8-8b7d-0b18ab649e11",
+  "title": "BlockPoker",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "6ceca469-fe10-45",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "io.kaleidochain.BlockPoker"
+  },
+  "ios": {
+    "packageName": "io.kaleidochain.BlockPoker"
+  },
+  "mac": {
+    "packageName": "io.kaleidochain.BlockPoker"
+  },
+  "win32": {},
+  "appBundle": false
+}

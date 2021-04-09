@@ -1,0 +1,254 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Insurance_icon_bao": {
+      "__uuid__": "43265454-7409-44c5-b538-cff849e8976b"
+    },
+    "activity_bg": {
+      "__uuid__": "d1c3bd42-48ba-431b-8da6-8a60b120408c"
+    },
+    "activity_guanbi": {
+      "__uuid__": "2124752d-8a41-4de6-96ec-2aee79b84210"
+    },
+    "activity_guanbi2": {
+      "__uuid__": "8ef06c6a-4df1-4c3f-9ee2-885296626d08"
+    },
+    "bg_recharge": {
+      "__uuid__": "6ceaf178-f8d7-4979-8764-71495d300747"
+    },
+    "bg_top_head": {
+      "__uuid__": "2dbb4bf9-57d2-4df5-99ef-56aceb6f7b63"
+    },
+    "button_frame": {
+      "__uuid__": "7d8127e2-5768-4a38-81dd-d18ba26e7eaa"
+    },
+    "button_left_gray": {
+      "__uuid__": "c38de0d3-db17-41fc-bad6-8d594790bc04"
+    },
+    "data_bg_black": {
+      "__uuid__": "43683c67-89b3-4719-9145-8cd3ee90aec2"
+    },
+    "data_bg_darkgrey": {
+      "__uuid__": "a6f81bac-e076-434d-84ae-40c07e42021f"
+    },
+    "icon": {
+      "__uuid__": "3a87e5be-d9e2-45da-857b-2aed30b1898e"
+    },
+    "icon_add": {
+      "__uuid__": "7cb5706f-b92a-443a-97b1-36a253c8b929"
+    },
+    "icon_discover_blue": {
+      "__uuid__": "8b2e8a40-a38a-41e3-8179-17232e701c85"
+    },
+    "icon_discover_white": {
+      "__uuid__": "21a7d274-cb3a-4eb4-8157-a9071d12f4ea"
+    },
+    "icon_gold-coin": {
+      "__uuid__": "8ead2e5c-541a-4df2-8783-1cf5d02436f1"
+    },
+    "icon_info_blue": {
+      "__uuid__": "ea1b8d50-67b5-4302-ad7b-c98437d52602"
+    },
+    "icon_info_white": {
+      "__uuid__": "275265ef-52fa-4b04-a82a-7f238ba7ec33"
+    },
+    "icon_insurance": {
+      "__uuid__": "ab7288dd-755e-45f5-9845-22eab97a6810"
+    },
+    "icon_kefu": {
+      "__uuid__": "29bc692e-15e4-479c-9fb4-89df19b369be"
+    },
+    "icon_letter": {
+      "__uuid__": "814924f8-89ee-4c9f-8249-46b44fbcbcd3"
+    },
+    "icon_letter1": {
+      "__uuid__": "aad17de9-1e7a-423e-97f7-8bb3148ae7d2"
+    },
+    "icon_letter2": {
+      "__uuid__": "8af8487e-527f-4373-a053-fd6fcc0c3996"
+    },
+    "icon_letter3": {
+      "__uuid__": "de19c000-a00a-44b7-99c3-455658ea496f"
+    },
+    "icon_letter4": {
+      "__uuid__": "e67dbfed-35eb-4c1e-97a5-067ca6aeb559"
+    },
+    "icon_records_blue": {
+      "__uuid__": "c358cc36-5bd8-4f8c-bd5d-31ae470ac081"
+    },
+    "icon_records_white": {
+      "__uuid__": "29722ce7-18f1-4593-b762-28bcdf1acafc"
+    },
+    "icon_setting_blue": {
+      "__uuid__": "fcdd7c76-5092-4750-a899-641dd1b1cea8"
+    },
+    "icon_setting_white": {
+      "__uuid__": "b9779490-4231-4211-a6ed-2c2d90968a16"
+    },
+    "icona": {
+      "__uuid__": "53c20abd-35d1-4aa8-9a38-f68fe6b38b0d"
+    },
+    "iconb": {
+      "__uuid__": "5770d01c-bbfe-4b3c-8fe6-2132beb31733"
+    },
+    "iconc": {
+      "__uuid__": "e06bbd34-f922-467a-ab19-03c0cb641eb2"
+    },
+    "icond": {
+      "__uuid__": "199f2edc-63ba-44e3-a4f6-2581a1c0b097"
+    },
+    "icone": {
+      "__uuid__": "c2bfb4c7-9368-4699-a3fd-751aa5f91920"
+    },
+    "iconf": {
+      "__uuid__": "dd72164c-683b-4efe-a072-e9166097998c"
+    },
+    "insurance_bg_black": {
+      "__uuid__": "cb34dc50-499b-43c2-9444-c7ef0ab20f89"
+    },
+    "insurance_bg_black_1": {
+      "__uuid__": "c357d43e-b19e-47d8-9ff4-52d963ba3511"
+    },
+    "insurance_line": {
+      "__uuid__": "6cd57b50-d592-482e-bbab-2fd01ef5f6ce"
+    },
+    "insurance_title": {
+      "__uuid__": "102ed524-f2a1-4488-a045-7aa2f830e33b"
+    },
+    "jackpot_back_1c7f56": {
+      "__uuid__": "bb028f71-5b3a-4696-aebe-32aa4fb5a436"
+    },
+    "jackpot_back_b24b49": {
+      "__uuid__": "07ac7e01-c645-437f-984f-4a31ad579e38"
+    },
+    "jackpot_icon_ball": {
+      "__uuid__": "136e8f8e-9bef-47fe-8257-f5a34bcb13bd"
+    },
+    "jackpot_icon_gift": {
+      "__uuid__": "7284862c-5dc7-4505-a24d-2cf1eb17c501"
+    },
+    "jackpot_icon_jp": {
+      "__uuid__": "0b9179a8-5082-4553-b953-7aed3f618bc6"
+    },
+    "main_01": {
+      "__uuid__": "f914a28e-25cb-4c73-a9cd-24dc92b98702"
+    },
+    "main_02": {
+      "__uuid__": "4d4e8377-a2f0-4fcf-91b1-d096c8e5c6f2"
+    },
+    "main_03": {
+      "__uuid__": "b7e0dda1-6910-42d0-a802-518b4b7d7980"
+    },
+    "main_04": {
+      "__uuid__": "a45268ca-5287-4251-ab44-a6ad4443e190"
+    },
+    "main_bg_gold": {
+      "__uuid__": "bb8ab067-b2c4-4d2c-b0cd-9bc6c7e975d4"
+    },
+    "main_danqian": {
+      "__uuid__": "2918b3cd-4086-490f-b539-5a02f658804d"
+    },
+    "main_shaixuan": {
+      "__uuid__": "3d0e88af-e2cb-4635-8ec1-603c8f30e81e"
+    },
+    "main_shaixuan2": {
+      "__uuid__": "aea205b0-eb99-4723-b15d-ea31cbc7d25c"
+    },
+    "main_shaixuanbg": {
+      "__uuid__": "7ac70ac5-047b-4bd9-927d-8881498fe168"
+    },
+    "main_shequ_btn": {
+      "__uuid__": "6a61007d-ba6b-494a-b62b-3cf3d839b881"
+    },
+    "main_witch_server_button": {
+      "__uuid__": "95d7823b-da52-47f0-887b-9f8cc04e4df2"
+    },
+    "quick_seat_icon_close": {
+      "__uuid__": "d28f453a-685e-4b41-86c9-0a42dbef0ce8"
+    },
+    "record_icon_bronze": {
+      "__uuid__": "07ae9f82-eb0d-401e-90e8-6c210d334b32"
+    },
+    "record_icon_gold": {
+      "__uuid__": "5433ee8b-1a92-4fbd-882e-56ef339a92f8"
+    },
+    "record_icon_silver": {
+      "__uuid__": "0662e357-79f9-445b-a6fa-7951e31823a6"
+    },
+    "shop_close": {
+      "__uuid__": "9de7886e-e80e-408f-9b42-4e6900fb5708"
+    },
+    "shuju_01": {
+      "__uuid__": "0b9eaa29-aea4-4764-8933-6c034b067bf3"
+    },
+    "shuju_02": {
+      "__uuid__": "b28ef966-f972-47d1-b16f-d0110e3c5368"
+    },
+    "shuju_02Gray": {
+      "__uuid__": "9aeebd3d-526c-48f0-ae32-a11f5d7bc657"
+    },
+    "shuju_03": {
+      "__uuid__": "24ad6142-b142-4dad-af07-60464681717f"
+    },
+    "shuju_03Gray": {
+      "__uuid__": "f72200ad-865e-43f4-a4c4-7b09e7a42d35"
+    },
+    "shuju_05": {
+      "__uuid__": "4d8983f6-6817-493a-9948-eca87c694493"
+    },
+    "shuju_06": {
+      "__uuid__": "8219d623-1cf0-4922-b339-39b80707b8f4"
+    },
+    "shuju_07": {
+      "__uuid__": "dfefad5d-e9fd-402a-8247-3defe92fda61"
+    },
+    "statistics_bg_down": {
+      "__uuid__": "db4f27cb-a958-417a-a283-f7133b896695"
+    },
+    "statistics_icon_money": {
+      "__uuid__": "66ae7f58-965c-4218-baff-048f90d1dedd"
+    },
+    "ui_0012_logo_group_light": {
+      "__uuid__": "e0fbc86f-2869-4ed4-88c7-f1e7f46db8f0"
+    },
+    "ui_0017_help_icon_on": {
+      "__uuid__": "72b658e8-0c38-4629-a1c4-817c6f950781"
+    },
+    "ui_0037_jewel_icon": {
+      "__uuid__": "09e15730-5f0b-4555-ae7b-5132ae03d0d9"
+    },
+    "ui_0038_yes_icon_02": {
+      "__uuid__": "a2cab82a-171a-4f99-8937-8b408a877a01"
+    },
+    "ui_0039_no_icon_01": {
+      "__uuid__": "dd6d14b9-c56d-48e7-b908-10ede5c1221d"
+    },
+    "ui_0058_round_box_02": {
+      "__uuid__": "552fa54a-b066-401c-a0cf-c47e9bcada36"
+    },
+    "ui_0059_round_yes": {
+      "__uuid__": "a84f3f3e-5213-4918-b88b-9b323d28ec9f"
+    },
+    "ui_0060_round_no": {
+      "__uuid__": "e3f8155e-4858-437d-aec4-96abe1d69423"
+    },
+    "ui_0091_back_icon_03": {
+      "__uuid__": "2db149cd-e345-4c4a-bfe0-1bac5b4afc72"
+    },
+    "ui_0144_lock_off": {
+      "__uuid__": "11526f6c-95f4-4ca9-9adf-22784a5c31f5"
+    },
+    "ui_0145_lock_on": {
+      "__uuid__": "54e8c2b1-d1b5-4ed2-9e7e-48b63a3c27f6"
+    },
+    "ui_0146_btn_Reset": {
+      "__uuid__": "288e8012-c67c-41c4-9853-b3ff02e4707f"
+    },
+    "ui_0147_icon_questmark": {
+      "__uuid__": "15734344-e5dc-4d74-955c-3c3f828c5749"
+    }
+  }
+}

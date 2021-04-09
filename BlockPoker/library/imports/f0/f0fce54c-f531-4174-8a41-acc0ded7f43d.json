@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_accounts_icon",
+    "texture": "b9556623-932e-42c6-9632-fe5f8c0e269c",
+    "atlas": "b1ed0e28-46ae-41d4-8480-fdffee2ffe73",
+    "rect": [
+      984,
+      66,
+      37,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

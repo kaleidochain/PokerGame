@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_handrules_twopairs",
+    "texture": "dc478e4b-76e1-4598-8b1d-241b74e4a192",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      504,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      504,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

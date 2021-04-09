@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_logo",
+    "texture": "7ac8bedd-e483-4a51-aee0-40616036ad56",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      385,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      387,
+      178
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

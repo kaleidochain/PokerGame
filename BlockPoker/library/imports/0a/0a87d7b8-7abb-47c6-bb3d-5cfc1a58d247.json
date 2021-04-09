@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_small_blind",
+    "texture": "29eb2886-4a2f-42e2-91f2-98a2b378637f",
+    "atlas": "",
+    "rect": [
+      11,
+      15,
+      45,
+      53
+    ],
+    "offset": [
+      -1,
+      2
+    ],
+    "originalSize": [
+      69,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

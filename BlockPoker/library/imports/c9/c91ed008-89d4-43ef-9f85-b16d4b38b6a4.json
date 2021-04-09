@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_invitation_tab",
+    "texture": "0a92211d-3ee6-491b-9608-3b4450a8e01a",
+    "atlas": "",
+    "rect": [
+      9,
+      10,
+      1377,
+      534
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      1396,
+      552
+    ],
+    "capInsets": [
+      45,
+      45,
+      45,
+      50
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+1 将这个目录的上上层目录../../Classes/mac/AppDelegate.cpp 替换../../Classes/AppDelegate.cpp
+2 这个目录中所有文件已换到cocoscreator生成的对应目录中去
+3 将生成的mac_gengine.h mac_gengine.a 拷贝到本目录
+4 编译工程时将 mac_gengine.a 加到依赖库中
+5 将ios目录下/portal.lua 添加到Resource 和大包文件中
+6 编译过程成如果发现boost的错误，需要安装boost，并且在编译选项中添加引用boots目录
+7 在mac 版本的打包的依赖中加上ios目录下面的portal.lua 确保打包中包含该文件

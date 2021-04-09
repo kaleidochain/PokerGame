@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_club_master_mark",
+    "texture": "10dd23e2-5ac7-4bcd-b216-11c6e6e2237d",
+    "atlas": "",
+    "rect": [
+      14,
+      5,
+      73,
+      74
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      101,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

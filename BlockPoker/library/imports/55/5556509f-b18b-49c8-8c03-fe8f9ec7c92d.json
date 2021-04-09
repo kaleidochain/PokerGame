@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_create_club",
+    "texture": "a3c46102-46e7-41dc-9f7e-e9c274c11a0e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      282,
+      279
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      279
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

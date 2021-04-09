@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_gamereview_progressbar",
+    "texture": "a9a74f50-912d-4965-9904-ed7148e91e69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      12
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      12
+    ],
+    "capInsets": [
+      10,
+      0,
+      10,
+      0
+    ]
+  }
+}

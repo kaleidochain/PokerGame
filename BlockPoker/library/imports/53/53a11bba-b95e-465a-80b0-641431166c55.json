@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_token_address_old",
+    "texture": "b8b7ea10-af13-4f1a-9a70-a9a3f9412016",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1029,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1029,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

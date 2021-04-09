@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_handrules_royal_flush",
+    "texture": "6ea9b694-1210-4040-9b67-6155ab313f7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      496,
+      117
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      496,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

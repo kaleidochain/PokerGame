@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_handrules_four_of_a_kind",
+    "texture": "00a7a98d-a543-49a8-99c7-cef6eeed653a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      497,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      497,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

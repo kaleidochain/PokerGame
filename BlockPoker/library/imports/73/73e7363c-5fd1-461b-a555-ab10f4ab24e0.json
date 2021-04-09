@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light_box_btn",
+    "texture": "de039bf2-3f96-4610-8782-cf94923e3c0b",
+    "atlas": "1fc9ee74-60ed-45d1-b173-5df2f99a7ed2",
+    "rect": [
+      679,
+      486,
+      458,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      458,
+      75
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

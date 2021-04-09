@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuhao_01",
+    "texture": "97e78952-9b4b-4be6-874e-1df3d13cb35a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      205
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      205
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

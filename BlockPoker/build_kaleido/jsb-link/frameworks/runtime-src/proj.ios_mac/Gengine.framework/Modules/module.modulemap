@@ -1,0 +1,8 @@
+framework module "Gengine" {
+	header "ref.h"
+    header "Gengine.objc.h"
+    header "Universe.objc.h"
+    header "Gengine.h"
+
+    export *
+}

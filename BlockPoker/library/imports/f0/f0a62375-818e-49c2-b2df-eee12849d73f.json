@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_club_application_deny",
+    "texture": "2cc2cfae-5f5a-4e64-abc4-8fca3eaace39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      65
+    ],
+    "offset": [
+      0,
+      7
+    ],
+    "originalSize": [
+      102,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
